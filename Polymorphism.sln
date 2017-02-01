@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism1", "Polymorphism\Polymorphism1.csproj", "{FA2D87EE-20FF-45B3-A716-4F9609F92B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism2", "Polymorphism2\Polymorphism2.csproj", "{753EEA5D-DE55-4997-9841-4958A8CD8AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeClasses", "ShapeClasses\ShapeClasses.csproj", "{2AC17045-4E08-4FD6-AB43-8740D648A9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2D87EE-20FF-45B3-A716-4F9609F92B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2D87EE-20FF-45B3-A716-4F9609F92B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2D87EE-20FF-45B3-A716-4F9609F92B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2D87EE-20FF-45B3-A716-4F9609F92B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{753EEA5D-DE55-4997-9841-4958A8CD8AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753EEA5D-DE55-4997-9841-4958A8CD8AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753EEA5D-DE55-4997-9841-4958A8CD8AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753EEA5D-DE55-4997-9841-4958A8CD8AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AC17045-4E08-4FD6-AB43-8740D648A9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC17045-4E08-4FD6-AB43-8740D648A9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC17045-4E08-4FD6-AB43-8740D648A9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC17045-4E08-4FD6-AB43-8740D648A9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
